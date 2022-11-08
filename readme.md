@@ -4,4 +4,4 @@
 - Filtering to-do's
 - Clear all to-do's
 - Save to-do's to into local storage
-- Keep looking at to-do'Swhen reload the page
+- Keep looking at to-do's when reload the page
